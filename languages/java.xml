@@ -1,0 +1,57 @@
+<language name="Java">
+	<structure>
+		<name>If Block</name>
+		<color>green</color>
+		<type>if</type>
+		<parameters>1</parameters>
+		<parameterListStart>(</parameterListStart>
+		<parameterListStop>)</parameterListStop>
+		<blockStart>{</blockStart>
+		<blockStop>}</blockStop>
+	</structure>
+	<structure>
+		<name>Else Block</name>
+		<color>yellow</color>
+		<type>else</type>
+		<blockStart>{</blockStart>
+		<blockStop>}</blockStop>
+	</structure>
+	<structure>
+		<name>For Loop</name>
+		<color>cyan</color>
+		<type>for</type>
+		<parameters>3</parameters>
+		<parameterListStart>(</parameterListStart>
+		<parameterSeparater>;</parameterSeparater>
+		<parameterListStop>)</parameterListStop>
+		<blockStart>{</blockStart>
+		<blockStop>}</blockStop>
+	</structure>
+	<structure>
+		<name>While Loop></name>
+		<color>red</color>
+		<type>while</type>
+		<parameters>1</parameters>
+		<parameterListStart>(</parameterListStart>
+		<parameterListStop>)</parameterListStop>
+		<blockStart>{</blockStart>
+		<blockStop>}</blockStop>
+	</structure>
+	<structure>
+		<name>Do-While Loop></name>
+		<color>red</color>
+		<type>do</type>
+		<blockStart>{</blockStart>
+		<blockStop>} while</blockStop>
+		<parameters>1</parameters>
+		<parameterListStart>(</parameterListStart>
+		<parameterListStop>);</parameterListStop>
+	</structure>
+	<structure>
+		<name>Class</name>
+		<color>magenta</color>
+		<type>class</type>
+		<parameters>1</parameters>
+		<blockStart>{</blockStart>
+		<blockStop>}</blockStop>
+</language>
